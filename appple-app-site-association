@@ -1,0 +1,108 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "Y7BCF82NHQ.com.farfetch.china.discover",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }, {
+            "appID": "Y7BCF82NHQ.com.farfetch.china.discover.debug",
+            "paths": ["*"]
+        }, {
+            "appID": "Y7BCF82NHQ.com.farfetch.china.discover.in-house",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }, {
+            "appID": "Y7BCF82NHQ.com.farfetch.china.discover.release-candidate",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }, {
+            "appID": "YRR3Z73Z6M.com.farfetch.discover",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }, {
+            "appID": "YRR3Z73Z6M.com.farfetch.discover.debug",
+            "paths": ["*"]
+        }, {
+            "appID": "YRR3Z73Z6M.com.farfetch.discover.in-house",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }, {
+            "appID": "YRR3Z73Z6M.com.farfetch.discover.release-candidate",
+            "paths": [
+                "NOT */shopping/men/search/*",
+                "NOT */shopping/women/search/*",
+                "NOT */shopping/kids/search/*",
+                "*/shopping/men/*item*",
+                "*/shopping/women/*item*",
+                "*/shopping/kids/*item*",
+                "*/shopping/men/*/*items*",
+                "*/shopping/women/*/*items*",
+                "*/shopping/kids/*/*items*",
+                "*/sets/men/*",
+                "*/sets/women/*",
+                "*/sets/kids/*"
+            ]
+        }]
+    }
+}
